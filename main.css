@@ -1,0 +1,71 @@
+
+.container {
+	font-family: "arial", sans-serif;
+	font-size: 20px;
+	
+
+}
+
+[class^="col"] {
+	padding: 15x 0px;
+}
+
+body {
+	margin-right: 5px;
+	margin-left: auto;
+	background-color: white !important;
+}
+
+img {
+	width: 100%;
+	
+}
+
+.photo-caption {
+	font-size: 15px;
+	font-style: italic;
+	text-align: center;
+}
+
+.byline {
+	font-weight: bold;
+	color: darkorange;
+}
+
+
+h1 {
+	font-weight: bold;
+	font-style: italic;
+	color: darkorange;
+}
+
+.dek { 
+	font-weight: bold;
+	color: darkorange;
+}
+
+a:link { 
+	color: darkorange;
+}
+
+
+a:hover {
+	color: lightblue;
+	text-decoration: underline;
+	text-decoration-color: grey;
+
+}
+
+a:visited{
+	color: darkblue;
+}
+
+.row {
+	padding-top: 15px;
+}
+
+
+
+
+
+
